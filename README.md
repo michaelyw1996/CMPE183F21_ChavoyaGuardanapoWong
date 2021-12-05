@@ -27,7 +27,7 @@ Students and working people are busy in general. They also have a lot going on i
 For this project, the type of testing that was done was smart contract testing through the Truffle Console. 
 A Javascript test file was created to test the smart contract. Within this test file, the Mocha framework and Chai
 assertion library were used. Tests were written in Javascript. To run the test, we utilized the command prompt and entered "$ truffle test".
-Once all tests pass, it was safe to deploy contracts without wasting unnecessary Ether.
+Once all tests passed, it was safe to deploy contracts without wasting unnecessary Ether.
 
 ## Folder Structure
 Keep folder structure as is in the github
