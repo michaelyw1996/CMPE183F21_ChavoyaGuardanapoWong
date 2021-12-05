@@ -26,7 +26,21 @@ Students and working people are busy in general. They also have a lot going on i
 ## Folder Structure
 Keep folder structure as is in the github
 
-## How To Run Application Locally
-Import the project into your preferred IDE
+## How To Run Application/ User and Installation Manuals
+Import the project into your preferred IDE or Text Editor
 
-## System Diagram, Class/Sequence, DB Schema 
+Dependencies Installed:
+* Ganache
+* Node.JS - go into command prompt and enter "$ node -v"
+* Truffle Framework - go into command prompt and enter "$ npm install -g truffle@5.0.2" exactly. Keep Version of Truffle 5.0.2
+* MetaMask Ethereum Wallet
+
+To start/run the application use this command in your command promt "$ npm run dev"
+
+## High Level/ Data Flow Diagrams
+![image](https://user-images.githubusercontent.com/54638283/144738595-b706a44c-8490-4e90-8a62-584dc4fcfabb.png)
+* High Level Architecture Diagram
+
+![image](https://user-images.githubusercontent.com/54638283/144738612-3475b12b-d804-4937-bf64-266faf14d977.png)
+* Data Flow Diagram
+
